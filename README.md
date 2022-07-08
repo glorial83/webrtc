@@ -6,3 +6,5 @@ WebRTC를 활용 한 screen sharing
 추후에 샘플 mp4를 주입하여 캠없이 PeerToPeer
 
 참고사이트 : https://dev.to/ethand91/webrtc-for-beginners-part-4-screen-share-42p6
+
+npm start 로 실행
